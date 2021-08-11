@@ -1,6 +1,9 @@
 # NgMySimpleStore
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
++
+added files after walking through basic ANGULAR tutorial at https://angular.io/start
+(this walkthrough was organized in https://stackblitz.com/edit/angular-3mdmif, but, unfortunately, exported files required impossible match of node and angular/cli versions, so i just copied my code into newly generated project)
 
 ## Development server
 
